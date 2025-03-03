@@ -7,8 +7,8 @@ In this repository there are some examples of how agent collaboration can be use
   
 * ### coder.py:
   * _This script takes a specified coding task as either user input or a specified prompt.txt file_
-  *  _creates a plan using pseudo code, writes the code, reviews the code, and_
-  *  _rewrites it to the new recommended changes. Each agent creates its own file which will be saved in the current directory._
+  *  _creates a plan using pseudo code, writes the code, reviews the code, and rewrites it to the new recommended changes._
+  *  _Each agent creates its own file which will be saved in the current directory._
 
 * ### jobassistant.py:
   * _This script requires an original resume and a job desciption in txt format be located in the same directory._
