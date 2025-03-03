@@ -12,7 +12,7 @@ In this repository there are some examples of how agent collaboration can be use
 
 * ### jobassistant.py:
   * _This script requires an original resume and a job desciption in txt format be located in the same directory._
-  * _It returns a new resume, potential interview questions, a coverletter, and questions that should be asked by the interviewee at the time of interview.
+  * _It returns a new resume, potential interview questions, a coverletter, and questions that should be asked by the interviewee at the time of interview._
 
 * ### searchoptomi.py:
   * _This script takes a search query and returns new search queries,_
